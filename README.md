@@ -14,4 +14,4 @@ RSI Strategy
 RSI Array Strategy
 SMA Strategy
 Ticks List Strategy
-# So we are not responsible.
+---- So we are not responsible----
