@@ -1,4 +1,4 @@
-# binary-bot
+Candle Rise .Fall # binary-bot
 call put trading bot strategy
 
 Bots with Strategy :
